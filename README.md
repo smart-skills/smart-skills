@@ -1,8 +1,6 @@
 # Hello 👋, I'm [Mariam Khurtsidze](https://github.com/smart-skills/)
 ## Junior <u>__Fullstack web developer__</u>
 
-<br>
-
 ---
 ### Stats:
 [![](https://github-readme-stats.vercel.app/api?username=smart-skills)](https://github.com/smart-skills/smart-skills)
